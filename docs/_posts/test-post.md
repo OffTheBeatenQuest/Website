@@ -1,3 +1,10 @@
+---
+tags:
+  - A
+  - B
+  - C
+---
+
 Hello
 
 hi
