@@ -184,7 +184,7 @@ defaults:
       path: "_episodes"
       type: episodes
     values:
-      layout: single
+      layout: episode
       author_profile: false
       comments: true
       share: true
